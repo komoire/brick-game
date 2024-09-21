@@ -20,7 +20,7 @@ A simple brick-breaking game (similar to Breakout or Arkanoid) developed using P
 
 1. *Clone the Repository:*
 
-    bash
+     ```bash
     git clone https://github.com/your-username/brick-breaker-game.git
     cd brick-breaker-game
     
@@ -29,13 +29,13 @@ A simple brick-breaking game (similar to Breakout or Arkanoid) developed using P
    
    The game requires *Pygame*. You can install it via pip:
 
-    bash
+     ```bash
     pip install pygame
     
 
 3. *Run the Game:*
 
-    bash
+     ```bash
     python brick_breaker.py
     
 
